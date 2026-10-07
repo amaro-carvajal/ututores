@@ -72,7 +72,7 @@ relacionadas con autenticación, usuarios y gestión de reservas.
 
 ### Gestión de reservas del estudiante
 
-![Reservas del estudiante](images/reservas-estudiante.png)
+![Reservas del estudiante](images/perfil-estudiante.png)
 
 ## Desarrollo del proyecto
 
