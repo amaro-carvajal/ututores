@@ -60,19 +60,19 @@ relacionadas con autenticación, usuarios y gestión de reservas.
 
 ### Inicio de sesión
 
-![Inicio de sesión](images/login.png)
+![Inicio de sesión](login.png)
 
 ### Búsqueda de tutores
 
-![Búsqueda de tutores](images/busqueda-tutores.png)
+![Búsqueda de tutores](busqueda-tutores.png)
 
 ### Perfil y disponibilidad del tutor
 
-![Perfil del tutor](images/perfil-tutor.png)
+![Perfil del tutor](perfil-tutor.png)
 
 ### Gestión de reservas del estudiante
 
-![Reservas del estudiante](images/perfil-estudiante.png)
+![Reservas del estudiante](perfil-estudiante.png)
 
 ## Desarrollo del proyecto
 
